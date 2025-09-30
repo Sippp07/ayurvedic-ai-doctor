@@ -1,0 +1,1 @@
+# ayurvedic-ai-doctor
